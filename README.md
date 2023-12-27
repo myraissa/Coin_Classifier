@@ -1,0 +1,1 @@
+This algorithm employs Mel-frequency cepstral coefficients (MFCC) to identify Tunisian coins by analyzing the unique sound generated upon hitting a table. Recorded with a smartphone, the algorithm processes the audio data and utilizes MFCC features for classification within a neural network. 
